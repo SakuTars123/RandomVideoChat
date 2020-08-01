@@ -1,0 +1,21 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#2D2D2E</item>
+        <item name="colorPrimaryDark">#2D2D2E</item>
+        <item name="colorAccent">@android:color/white</item>
+    </style>
+
+    <style name="splashtheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#2D2D2E</item>
+        <item name="colorPrimaryDark">#2D2D2E</item>
+        <item name="colorAccent">@android:color/white</item>
+        <item name="android:background">@drawable/splashscreen</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

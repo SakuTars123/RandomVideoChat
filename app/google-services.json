@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "292052080981",
+    "firebase_url": "https://viduo-f37aa.firebaseio.com",
+    "project_id": "viduo-f37aa",
+    "storage_bucket": "viduo-f37aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292052080981:android:557540bcf60ba9560b77dc",
+        "android_client_info": {
+          "package_name": "com.ViDuo.viduo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292052080981-l9fqm737rntecmgs1iocf6b10q8mn27h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXy1_vbrhgGmGdBPPUI5tQfLiPKkGgHOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292052080981-l9fqm737rntecmgs1iocf6b10q8mn27h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
